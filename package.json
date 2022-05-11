@@ -1,0 +1,25 @@
+{
+  "name": "tubes_imk",
+  "version": "1.0.0",
+  "description": "tugas besar imk",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityafjri/TubesIMK.git"
+  },
+  "keywords": [
+    "TbesIMK"
+  ],
+  "author": "kelompok_10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityafjri/TubesIMK/issues"
+  },
+  "homepage": "https://github.com/adityafjri/TubesIMK#readme",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
